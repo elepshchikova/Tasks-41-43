@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Урок 6\lesson6\h\obj\Debug\net6.0\h.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Урок 6\lesson6\h\obj\Debug\net6.0\h.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Урок 6\lesson6\h\obj\Debug\net6.0\h.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Урок 6\lesson6\h\obj\Debug\net6.0\h.AssemblyInfo.cs
+C:\Users\User\Desktop\Урок 6\lesson6\h\bin\Debug\net6.0\h.exe
+C:\Users\User\Desktop\Урок 6\lesson6\h\bin\Debug\net6.0\h.deps.json
+C:\Users\User\Desktop\Урок 6\lesson6\h\bin\Debug\net6.0\h.runtimeconfig.json
+C:\Users\User\Desktop\Урок 6\lesson6\h\bin\Debug\net6.0\h.dll
+C:\Users\User\Desktop\Урок 6\lesson6\h\bin\Debug\net6.0\h.pdb
+C:\Users\User\Desktop\Урок 6\lesson6\h\obj\Debug\net6.0\h.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Урок 6\lesson6\h\obj\Debug\net6.0\h.dll
+C:\Users\User\Desktop\Урок 6\lesson6\h\obj\Debug\net6.0\refint\h.dll
+C:\Users\User\Desktop\Урок 6\lesson6\h\obj\Debug\net6.0\h.pdb
+C:\Users\User\Desktop\Урок 6\lesson6\h\obj\Debug\net6.0\h.genruntimeconfig.cache
+C:\Users\User\Desktop\Урок 6\lesson6\h\obj\Debug\net6.0\ref\h.dll
